@@ -9,9 +9,12 @@ This grand challenge will have 3x True Red blocks, 3x True Green blocks, and 3x 
 + Collision Avoidance
 + Localization (Odometry)
 
-## Main Sensors: Raspberry Pi Camera, Sonar, IMU, Motor Encoders
-Effectors: DC Motors, Servo Motors
-Controllers: Raspberry Pi, Arduino UNO
+## Main Sensors: 
+Raspberry Pi Camera, Sonar, IMU, Motor Encoders
+## Effectors: 
+DC Motors, Servo Motors
+## Controllers: 
+Raspberry Pi, Arduino UNO
 
 ## The arena top view is shown below:
 ![image](https://github.com/Arshad-Engineer/Autonomous_Robot_Grand_Challenge/assets/112987383/cffd1a4e-40f3-476b-b593-ec4e2621d5c6)
