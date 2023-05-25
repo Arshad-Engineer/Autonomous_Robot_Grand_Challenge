@@ -12,7 +12,7 @@ This grand challenge will have 3x True Red blocks, 3x True Green blocks, and 3x 
 ## Main Sensors: 
 Raspberry Pi Camera, Sonar, IMU, Motor Encoders
 ## Effectors: 
-DC Motors, Servo Motors
+DC Motors, Servo Motors, Gripper
 ## Controllers: 
 Raspberry Pi, Arduino UNO
 
