@@ -1,5 +1,5 @@
 # Autonomous_Robot_Grand_Challenge
-This grand challenge will have 3x True Red blocks, 3x True Green blocks, and 3x True Blue blocks in the Grand Challenge.  To receive a maximum score of 9/9, robot must successfully transport the red, green, and blue blocks to the Construction Zone in proper order.  Any adversarial blocks (colors other than red, green, or blue) will count as a point deduction for each that ends up in the Construction Zone.
+This grand challenge will have 3x True Red blocks, 3x True Green blocks, and 3x True Blue blocks in the Grand Challenge.  To receive a maximum score of 9/9, robot must successfully transport the red, green, and blue blocks to the Construction Zone in proper order.  Any adversarial blocks (colors other than red, green, or blue) will count as a point deduction for each that ends up in the Construction Zone. Each block will be spaced by atleast 1 ft distance.
 
 The arena top view is shown below:
 ![image](https://github.com/Arshad-Engineer/Autonomous_Robot_Grand_Challenge/assets/112987383/cffd1a4e-40f3-476b-b593-ec4e2621d5c6)
