@@ -4,7 +4,7 @@ This grand challenge will have 3x True Red blocks, 3x True Green blocks, and 3x 
 ## The project involves the key concepts:
 + Object Tracking
 + Object Retrieval
-+ Monocular Depth estimation
++ Monocular Camera Depth estimation
 + PID Control
 + Collision Avoidance
 + Localization (Odometry)
