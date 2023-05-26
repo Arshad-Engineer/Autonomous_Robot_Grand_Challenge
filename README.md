@@ -5,7 +5,7 @@ This grand challenge will have 3x True Red blocks, 3x True Green blocks, and 3x 
 + Object Tracking
 + Object Retrieval
 + Monocular Camera Depth estimation
-+ PID Control
++ PID Control of the heading of the vehicle
 + Collision Avoidance
 + Localization (Odometry)
 
